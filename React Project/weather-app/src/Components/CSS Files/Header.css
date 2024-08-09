@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Permanent+Marker&display=swap');
+
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: "Permanent Marker";
+    font-size: xxx-large;
+    text-align: center;
+}
+
+.head{
+    margin: 4rem 0 4rem 0;
+}
+
+.logo{
+    margin: 5rem 1rem 4rem 0;
+    width: 40px;;
+    height: 35px;
+}

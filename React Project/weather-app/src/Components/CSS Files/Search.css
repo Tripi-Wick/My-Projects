@@ -1,0 +1,16 @@
+.search{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.searchBox{
+    width: 50rem;  
+    margin: .5rem 0 0 0; 
+}
+
+.searchButton{ 
+    margin: 2rem 0 0 0 !important;  
+    width: 14rem;
+    background-color: whitesmoke !important ;
+}

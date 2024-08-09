@@ -1,0 +1,7 @@
+.alert{
+    display: flex;
+    margin: auto;
+    margin-top: 2rem;
+    width: 40rem;
+    border-radius: .5rem;
+}
