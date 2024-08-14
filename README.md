@@ -21,7 +21,7 @@ Welcome to the hub where all my coding adventures come together! This repository
 I welcome contributions and collaborations! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ## 🤝 Connect With Me
-- [LinkedIn](www.linkedin.com/in/007-tripi-wick)
+- [LinkedIn](https://www.linkedin.com/in/007-tripi-wick)
 - [Instagram](https://www.instagram.com/tripi_wick/)
 
 Thank you for checking out my projects! Happy coding! 😄
